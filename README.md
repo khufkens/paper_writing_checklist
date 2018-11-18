@@ -19,10 +19,9 @@ This is a checklist for academic paper writing. The document covers text flow, s
 - [ ] Use the present tense for facts
 - [ ] Use the past tense to describe results
 - [ ] Avoid informal language, superlatives
-- [ ] Limit the use of conjuctive (connecting) words e.g.:
-	- However, In addition, Moreover
-- [ ] Repetitive words (but don't substitute by using the thesaurus, re-evaluate the sentences)
-- [ ] Don't use spoken abbreviations (e.g. "it's")
+- [ ] Limit the use of conjuctive (connecting) words (e.g. however, moreover)
+- [ ] Limit repetitive words (don't substitute using the thesaurus, re-evaluate the sentences)
+- [ ] Don't use spoken abbreviations (e.g. it's)
 - [ ] Single-digit numbers should be spelled out; numbers of two or more digits should be expressed as numerals 
 
 ### Page Layout
