@@ -8,7 +8,8 @@ before_install:
   - sudo apt-get update -qq
   - sudo apt-get install -y wkhtmltopdf
   - sudo apt-get install -qq -y texlive texlive-latex-recommended texlive-latex-extra
-  - sudo apt-get install -qq -y pandoc 
+  - wget https://github.com/jgm/pandoc/releases/download/2.4/pandoc-2.4-1-amd64.deb
+  - sudo dpkg -i pandoc-2.4-1-amd64.deb
 
 after_success:
   - mkdir ~/tmp && cd ~/tmp
