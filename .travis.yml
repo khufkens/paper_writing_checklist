@@ -13,7 +13,7 @@ after_success:
   - git checkout master
   - git add . *.pdf
   - git commit --message "Travis PDF"
-  - git remote add master https://${GH_TOKEN}@github.com/khufkens/paper_writing_checklist.git > /dev/null 2>&1
+  - git remote add origin https://${GH_TOKEN}@github.com/khufkens/paper_writing_checklist.git > /dev/null 2>&1
   - git push --quiet --set-upstream master
 
 env:
