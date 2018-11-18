@@ -4,14 +4,16 @@ sudo: required
 cache: packages
 
 before_install:
+  - sudo add-apt-repository ppa:ecometrica/servers
   - sudo apt-get update -qq
+  - sudo apt-get install -y wkhtmltopdf
   - sudo apt-get install -qq -y texlive texlive-lang-german  texlive-latex-recommended  texlive-latex-extra
-  - sudo apt-get install pandoc
+  - sudo apt-get install -qq -y pandoc 
 
 after_success:
   - mkdir ~/tmp && cd ~/tmp
   - git clone https://${GH_TOKEN}@github.com/khufkens/paper_writing_checklist.git .
-  - pandoc -s -o paper_writing_advice.pdf README.md
+  - pandoc -f gfm -s README.md -o paper_writing_advice.pdf 
   - git add *.pdf
   - git commit -am "[skip travis] update pdf (travis build ${TRAVIS_BUILD_NUMBER})"
   - git push -f origin master
