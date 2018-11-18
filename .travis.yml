@@ -1,6 +1,7 @@
 # compile markdown README to pdf for printing
 language: generic
 sudo: required
+cache: packages
 before_install:
   - sudo apt-get update -qq
   - sudo apt-get install -qq -y texlive texlive-lang-german  texlive-latex-recommended  texlive-latex-extra
@@ -11,7 +12,7 @@ after_success:
   - git config --global user.email "travis@travis-ci.org"
   - git config --global user.name "Travis CI"
   - git checkout master
-  - git add . *.pdf
+  - git add *.pdf
   - git commit --message "Travis PDF"
   - git remote add origin https://${GH_TOKEN}@github.com/khufkens/paper_writing_checklist.git > /dev/null 2>&1
   - git push --set-upstream master
