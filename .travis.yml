@@ -1,5 +1,5 @@
 # compile markdown README to pdf for printing
-lang: ruby
+sudo: required
 before_install:
   - sudo apt-get install pandoc
 script:
