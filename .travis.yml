@@ -1,6 +1,9 @@
 # compile markdown README to pdf for printing
+language: generic
 sudo: required
 before_install:
+  - sudo apt-get update -qq
+  - sudo apt-get install -qq -y texlive texlive-lang-german  texlive-latex-recommended  texlive-latex-extra
   - sudo apt-get install pandoc
 script:
   - pandoc -s -o paper_writing_advice.pdf README.md
