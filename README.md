@@ -1,3 +1,6 @@
+<a href="https://www.buymeacoffee.com/H2wlgqCLO" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" height="21px" ></a>
+<a href="https://liberapay.com/khufkens/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg" height="21px"></a>
+
 # Paper writing checklist and advice
 
 This is a checklist for academic paper writing. The document covers text flow, style, figures and table formatting. This document is based upon a number of sources, combining the most actionable items into an easy checklist.
