@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/khufkens/paper_writing_checklist.svg?branch=master)](https://travis-ci.org/khufkens/paper_writing_checklist)
 <a href="https://www.buymeacoffee.com/H2wlgqCLO" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" height="21px" ></a>
 <a href="https://liberapay.com/khufkens/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg" height="21px"></a>
 
@@ -22,7 +23,7 @@ This is a checklist for academic paper writing. The document covers text flow, s
 - [ ] Avoid informal language, superlatives
 - [ ] Limit the use of conjuctive (connecting) words e.g.:
 	- However, In addition, Moreover
-- [ ] Repetitive words (but don't substitute by using the thesaurus, re-evaluate the sentences)	 
+- [ ] Repetitive words (but don't substitute by using the thesaurus, re-evaluate the sentences)
 - [ ] Don't use spoken abbreviations (e.g. "it's")
 - [ ] Single-digit numbers should be spelled out; numbers of two or more digits should be expressed as numerals 
 

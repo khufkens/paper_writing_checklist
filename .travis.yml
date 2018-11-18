@@ -13,7 +13,7 @@ after_success:
   - git clone https://${GH_TOKEN}@github.com/khufkens/paper_writing_checklist.git .
   - pandoc -s -o paper_writing_advice.pdf README.md
   - git add *.pdf
-  - git commit -am "update pdf (travis build ${TRAVIS_BUILD_NUMBER})"
+  - git commit -am "[skip travis] update pdf (travis build ${TRAVIS_BUILD_NUMBER})"
   - git push -f origin master
 
 env:
