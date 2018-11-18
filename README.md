@@ -2,7 +2,7 @@
 
 # Paper writing checklist and advice
 
-This is a checklist for academic paper writing. The document covers text flow, style, figures and table formatting. This document is based upon a number of references, combining the most actionable items into an easy checklist.
+This is a checklist for academic paper writing. The document covers text flow, style, figures and table formatting. This document is based upon a number of references, combining the most actionable items into an easy checklist. A printable pdf version of this file can be [downloaded from the repository](https://github.com/khufkens/paper_writing_checklist/raw/master/paper_writing_advice.pdf).
 
 ## Text
 
