@@ -2,9 +2,9 @@
 
 # Paper writing checklist and advice
 
-This is a checklist for academic paper writing. The document covers text flow, style, figures and table formatting. This document is based upon a number of references, combining the most actionable items into an easy checklist. A printable pdf version of this file can be [downloaded from the repository](https://github.com/khufkens/paper_writing_checklist/raw/master/paper_writing_checklist.pdf).
+This is a checklist for academic paper writing. The document covers text flow, style, figures and table formatting. This document is based upon a number of references, combining the most actionable items into an easy checklist. I credit the [rOpenSci](https://ropensci.org/) code review approach for the checklist idea. A printable pdf version of this file can be [downloaded from the repository](https://github.com/khufkens/paper_writing_checklist/raw/master/paper_writing_checklist.pdf).
 
-This checklist is not exhaustive but should cover the most important components of a well layed out manuscript. I refer to the author's guide of a targetted journal for additional requirements on the manuscript layout and style elements.
+This checklist is not exhaustive but should cover the most important components of a well structured manuscript. I refer to the author's guide of a targetted journal for additional requirements on the manuscript layout and style elements.
 
 ## Text
 
