@@ -18,55 +18,55 @@ Other story structures exist, but this is for sure one of the most common ones t
 
 ### Language
 
-- [ ] Use active language
-- [ ] Avoid long sentences (12 to 17 words max)
-- [ ] Simplify your language (dead to the thesaurus)
-- [ ] Check for spelling / grammar mistakes
-- [ ] One paragraph communicates one important idea
-- [ ] Connect paragraphs and ideas in a logical order
-- [ ] Use the present tense for facts
-- [ ] Use the past tense to describe results
-- [ ] Avoid informal language, superlatives
-- [ ] Limit the use of conjuctive (connecting) words (e.g. however, moreover)
-- [ ] Limit repetitive words (don't substitute using the thesaurus, re-evaluate the sentences)
-- [ ] Don't use spoken abbreviations (e.g. it's)
-- [ ] Single-digit numbers should be spelled out; numbers of two or more digits should be expressed as numerals
+- &#9744; Use active language
+- &#9744; Avoid long sentences (12 to 17 words max)
+- &#9744; Simplify your language (dead to the thesaurus)
+- &#9744; Check for spelling / grammar mistakes
+- &#9744; One paragraph communicates one important idea
+- &#9744; Connect paragraphs and ideas in a logical order
+- &#9744; Use the present tense for facts
+- &#9744; Use the past tense to describe results
+- &#9744; Avoid informal language, superlatives
+- &#9744; Limit the use of conjuctive (connecting) words (e.g. however, moreover)
+- &#9744; Limit repetitive words (don't substitute using the thesaurus, re-evaluate the sentences)
+- &#9744; Don't use spoken abbreviations (e.g. it's)
+- &#9744; Single-digit numbers should be spelled out; numbers of two or more digits should be expressed as numerals
 
 ### Page Layout
 
-- [ ] 12 point font (preferrably a serif font)
-- [ ] Double spaced lines
-- [ ] Number pages
-- [ ] Number lines continuously
-- [ ] Avoid "[widows or orphans](https://en.wikipedia.org/wiki/Widow_(typesetting))" or small parts of a larger paragraph remaining at the bottom of a previous page
-- [ ] Follow the author's layout guide of the journal, most often the schemes:
+- &#9744; 12 point font (preferrably a serif font)
+- &#9744; Double spaced lines
+- &#9744; Number pages
+- &#9744; Number lines continuously
+- &#9744; Avoid "[widows or orphans](https://en.wikipedia.org/wiki/Widow_(typesetting))" or small parts of a larger paragraph remaining at the bottom of a previous page
+- &#9744; Follow the author's layout guide of the journal, most often the schemes:
 	- Introduction, Methods, Results, Discussion, Conclusion
 	- Introduction, Results, Discussion + Conclusion, Methods
 
 ### Citation
 
-- [ ] Check citations (present in both the manuscript and the reference list)
-- [ ] Are all data and software sources cited
+- &#9744; Check citations (present in both the manuscript and the reference list)
+- &#9744; Are all data and software sources cited
 	- In R use the [citation()](https://www.rdocumentation.org/packages/utils/versions/3.5.1/topics/citation) function to find proper citations to packages
-- [ ] Is the measurement equipment cited
-- [ ] Check the citation style required
+- &#9744; Is the measurement equipment cited
+- &#9744; Check the citation style required
 
 ## Figures
 
-- [ ] Figure components are legible in print and on screen
-- [ ] All axis are named
-- [ ] Figures are colourblind friendly (for colour schemes see: [ColorBrewer](http://colorbrewer2.org/)) 
-- [ ] The use of symbols and line types is preferred over colour
-- [ ] The caption explains the purpose and content of the figure
-- [ ] All figures have the same axis orientation
-- [ ] Figures with the same (x/y) axis are combined in a single panel
-- [ ] Limit the number of pictures in the main manuscript
+- &#9744; Figure components are legible in print and on screen
+- &#9744; All axis are named
+- &#9744; Figures are colourblind friendly (for colour schemes see: [ColorBrewer](http://colorbrewer2.org/)) 
+- &#9744; The use of symbols and line types is preferred over colour
+- &#9744; The caption explains the purpose and content of the figure
+- &#9744; All figures have the same axis orientation
+- &#9744; Figures with the same (x/y) axis are combined in a single panel
+- &#9744; Limit the number of pictures in the main manuscript
 	- Additional figures can go in the Appendix
 
 ## Tables
 
-- [ ] The caption explains the purpose and content of the table
-- [ ] Limit the number of tables in the main manuscript
+- &#9744; The caption explains the purpose and content of the table
+- &#9744; Limit the number of tables in the main manuscript
 	- Additional tables can go in the Appendix
 
 ## References
