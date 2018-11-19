@@ -4,6 +4,8 @@
 
 This is a checklist for academic paper writing. The document covers text flow, style, figures and table formatting. This document is based upon a number of references, combining the most actionable items into an easy checklist. A printable pdf version of this file can be [downloaded from the repository](https://github.com/khufkens/paper_writing_checklist/raw/master/paper_writing_checklist.pdf).
 
+This checklist is not exhaustive but should cover the most important components of a well layed out manuscript. I refer to the author's guide of a targetted journal for additional requirements on the manuscript layout and style elements.
+
 ## Text
 
 ### Flow
@@ -12,7 +14,7 @@ The flow or story arc of your manuscript can take on various forms, but most com
 
 An hourglass shaped story arc starts with a broad discussion of the context in which to frame the current work, the introduction. The story arc then narrows to the scope of the research question at hand. These research questions are often put forward as formal hypothesis. These hypothesis, how to test them and the final results are layed out in the methodology and results part of the manuscript. This is the narrowest part of story arc, focussing on what is dealt with within the scope of the manuscript and little else. The story arc then widens again by discussing the results relative to (contemporary) literature only to conclude with very broad statements on how to move forward in the conclusion.
 
-Other story structures exist, but this is for sure one of the most common ones to consider. Deviating from this basic structure often leads to a skewed story arcs, which either inflates expectations (funnel shape) or underplays the value of the work at hand (inverted funnel). For an in depth discussion I refer to "Writing Science" by Joshua Schimel.
+Other story structures exist, but this is for sure one of the most common ones to consider. Deviating from this basic structure often leads to a skewed story arcs, which either inflates expectations (funnel shape) or underplays the value of the work at hand (inverted funnel). For an in depth discussion I refer to "[Writing Science](https://global.oup.com/academic/product/writing-science-9780199760237?cc=us&lang=en&)" by Joshua Schimel.
 
 ### Language
 
@@ -28,7 +30,7 @@ Other story structures exist, but this is for sure one of the most common ones t
 - [ ] Limit the use of conjuctive (connecting) words (e.g. however, moreover)
 - [ ] Limit repetitive words (don't substitute using the thesaurus, re-evaluate the sentences)
 - [ ] Don't use spoken abbreviations (e.g. it's)
-- [ ] Single-digit numbers should be spelled out; numbers of two or more digits should be expressed as numerals 
+- [ ] Single-digit numbers should be spelled out; numbers of two or more digits should be expressed as numerals
 
 ### Page Layout
 
@@ -37,14 +39,17 @@ Other story structures exist, but this is for sure one of the most common ones t
 - [ ] Number pages
 - [ ] Number lines continuously
 - [ ] Avoid "[widows or orphans](https://en.wikipedia.org/wiki/Widow_(typesetting))" or small parts of a larger paragraph remaining at the bottom of a previous page
-- [ ] Follow the author layout guide of the journal, most often the schemes:
+- [ ] Follow the author's layout guide of the journal, most often the schemes:
 	- Introduction, Methods, Results, Discussion, Conclusion
 	- Introduction, Results, Discussion + Conclusion, Methods
 
-### References
+### Citation
 
-- [ ] Check references
-- [ ] Check the reference style required
+- [ ] Check citations (are the present in the manuscript and the reference list)
+- [ ] Are all data and software sources cited
+	- In R use the [citation()](https://www.rdocumentation.org/packages/utils/versions/3.5.1/topics/citation) function to find proper citations to packages
+- [ ] Is the measurement equipment cited
+- [ ] Check the citation style required
 
 ## Figures
 
@@ -65,6 +70,8 @@ Other story structures exist, but this is for sure one of the most common ones t
 	- Additional tables can go in the Appendix
 
 ## References
+
+[Schimel J., 2011, Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded, Oxford University Press, 240p.](https://global.oup.com/academic/product/writing-science-9780199760237?cc=us&lang=en&)
 
 [Writing a science paper some dos and don'ts](https://www.elsevier.com/connect/writing-a-science-paper-some-dos-and-donts)
 
