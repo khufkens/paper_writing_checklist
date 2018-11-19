@@ -14,7 +14,7 @@ before_install:
 after_success:
   - mkdir ~/tmp && cd ~/tmp
   - git clone https://${GH_TOKEN}@github.com/khufkens/paper_writing_checklist.git .
-  - pandoc -f gfm -s README.md -o paper_writing_checklist.pdf 
+  - pandoc -s README.md -o paper_writing_checklist.pdf 
   - git add *.pdf
   - git commit -am "[skip travis] update pdf (travis build ${TRAVIS_BUILD_NUMBER})"
   - git push -f origin master
