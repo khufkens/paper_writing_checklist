@@ -45,7 +45,7 @@ Other story structures exist, but this is for sure one of the most common ones t
 
 ### Citation
 
-- [ ] Check citations (are the present in the manuscript and the reference list)
+- [ ] Check citations (present in both the manuscript and the reference list)
 - [ ] Are all data and software sources cited
 	- In R use the [citation()](https://www.rdocumentation.org/packages/utils/versions/3.5.1/topics/citation) function to find proper citations to packages
 - [ ] Is the measurement equipment cited
