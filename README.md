@@ -8,6 +8,12 @@ This is a checklist for academic paper writing. The document covers text flow, s
 
 ### Flow
 
+The flow or story arc of your manuscript can take on various forms, but most commonly has an hourglass shape. Here, the width of the hourglass refers to the scope of the material discussed.
+
+An hourglass shaped story arc starts with a broad discussion of the context in which to frame the current work, the introduction. The story arc then narrows to the scope of the research question at hand. These research questions are often put forward as formal hypothesis. These hypothesis, how to test them and the final results are layed out in the methodology and results part of the manuscript. This is the narrowest part of story arc, focussing on what is dealt with within the scope of the manuscript and little else. The story arc then widens again by discussing the results relative to (contemporary) literature only to conclude with very broad statements on how to move forward in the conclusion.
+
+Other story structures exist, but this is for sure one of the most common ones to consider. Deviating from this basic structure often leads to a skewed story arcs, which either inflates expectations (funnel shape) or underplays the value of the work at hand (inverted funnel). For an in depth discussion I refer to "Writing Science" by Joshua Schimel.
+
 ### Language
 
 - [ ] Use active language
