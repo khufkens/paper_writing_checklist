@@ -92,7 +92,22 @@ Deviating from this basic structure often leads to a skewed story arcs, which ei
 - [ ] Limit the number of tables in the main manuscript
 	- Additional tables can go in the Appendix
 
-## References
+# Submission process
+
+## Co-authors 
+
+- [ ] Do you need to include any co-authors based on data use policies
+- [ ] Ask permission to include co-authors
+- [ ] Ask feedback on completed manuscripts only
+	- except for those very closely involved with the analysis 
+
+## Cover letter
+
+- [ ] Does the manuscript fit the scope of the target journal
+- [ ] Report potential conflicts of interest
+- [ ] Keep it short!
+
+# References
 
 [Schimel J., 2011, Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded, Oxford University Press, 240p.](https://global.oup.com/academic/product/writing-science-9780199760237?cc=us&lang=en&)
 
