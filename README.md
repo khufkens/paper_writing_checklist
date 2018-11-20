@@ -101,3 +101,5 @@ Deviating from this basic structure often leads to a skewed story arcs, which ei
 [Experimental Biosciences writing science](http://www.ruf.rice.edu/~bioslabs/tools/report/reportform.html)
 
 [11 steps to structuring a science paper editors will take seriously](https://www.elsevier.com/connect/11-steps-to-structuring-a-science-paper-editors-will-take-seriously)
+
+Writing lab (ENV385w) notes by [Katharyn Duffy](https://github.com/katharynduffy)
