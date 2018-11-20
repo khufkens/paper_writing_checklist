@@ -6,11 +6,6 @@ cache:
   packages: yes
 
 install:
-  - tlmgr install unicode-math
-  - tlmgr install filehook
-  - tlmgr install lm-math
-  - tlmgr install lm
-  - tlmgr install inputenx
   - mkdir ~/tmp && cd ~/tmp
   - git clone https://${GH_TOKEN}@github.com/khufkens/paper_writing_checklist.git .
 
