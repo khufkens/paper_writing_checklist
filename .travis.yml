@@ -6,9 +6,9 @@ cache:
   packages: yes
 
 install:
-  - sudo apt-get install -y texlive-fonts-recommended texlive-fonts-extra
   - tlmgr install unicode-math
   - tlmgr install filehook
+  - tlmgr install lm-math
   - mkdir ~/tmp && cd ~/tmp
   - git clone https://${GH_TOKEN}@github.com/khufkens/paper_writing_checklist.git .
 
