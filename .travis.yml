@@ -1,16 +1,15 @@
 # compile markdown README to pdf for printing
 language: r
 pandoc_version: 2.0.6
-sudo: required
+cache:
+  packages: yes
 
-before_install:
-  - tlmgr init-usertree
-  - tlmgr install inputenc
-
-after_success:
+script:
   - mkdir ~/tmp && cd ~/tmp
   - git clone https://${GH_TOKEN}@github.com/khufkens/paper_writing_checklist.git .
-  - pandoc -s README.md -o paper_writing_checklist.pdf 
+  - pandoc -s README.md -o paper_writing_checklist.pdf
+  
+after_success:
   - git add *.pdf
   - git commit -am "[skip travis] update pdf (travis build ${TRAVIS_BUILD_NUMBER})"
   - git push -f origin master
