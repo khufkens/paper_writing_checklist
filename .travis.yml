@@ -3,6 +3,10 @@ language: r
 pandoc_version: 2.0.6
 sudo: required
 
+before_install:
+  - tlmgr init-usertree
+  - tlmgr install inputenc
+
 after_success:
   - mkdir ~/tmp && cd ~/tmp
   - git clone https://${GH_TOKEN}@github.com/khufkens/paper_writing_checklist.git .
