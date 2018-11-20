@@ -2,7 +2,7 @@
 
 # Paper writing checklist and advice
 
-This is a checklist for academic paper writing. The document covers text flow, style, figures and table formatting. This document is based upon a number of references, combining the most actionable items into an easy checklist. I credit the [rOpenSci](https://ropensci.org/) code review approach for the checklist idea. A printable pdf version of this file can be [downloaded from the repository](https://github.com/khufkens/paper_writing_checklist/raw/master/paper_writing_checklist.pdf).
+This is a checklist for academic paper writing (or peer-review). The document covers text flow, style, figures and table formatting. This document is based upon a number of references, combining the most actionable items into an easy checklist. I credit the [rOpenSci](https://ropensci.org/) code review approach for the checklist idea. A printable pdf version of this file can be [downloaded from the repository](https://github.com/khufkens/paper_writing_checklist/raw/master/paper_writing_checklist.pdf).
 
 This checklist is not exhaustive but should cover the most important components of a well structured manuscript. I refer to the author's guide of a targetted journal for additional requirements on the manuscript layout and style elements.
 
@@ -10,11 +10,34 @@ This checklist is not exhaustive but should cover the most important components 
 
 ### Flow
 
-The flow or story arc of your manuscript can take on various forms, but most commonly has an hourglass shape. Here, the width of the hourglass refers to the scope of the material discussed.
+The flow or story arc of your manuscript can take on various forms, but most commonly has an hourglass. Here, the width of the hourglass refers to the scope of the material discussed, where the story line itself will fit the Opening, Challenge, Action, Resolution (OCAR) structure, which mostly reflects the standard layout of a paper (see below).
 
-An hourglass shaped story arc starts with a broad discussion of the context in which to frame the current work, the introduction. The story arc then narrows to the scope of the research question at hand. These research questions are often put forward as formal hypothesis. These hypothesis, how to test them and the final results are layed out in the methodology and results part of the manuscript. This is the narrowest part of story arc, focussing on what is dealt with within the scope of the manuscript and little else. The story arc then widens again by discussing the results relative to (contemporary) literature only to conclude with very broad statements on how to move forward in the conclusion.
+An hourglass shaped story arc starts with a broad discussion of the context in which to frame the current work, the introduction. The story arc then narrows to the scope of the research question at hand. These research questions are often put forward as formal hypothesis. These hypothesis, how to test them and the final results are layed out in the methodology and results part of the manuscript. This is the narrowest part of story arc, focussing on what is dealt with within the scope of the manuscript and little else. The story arc then widens again by discussing the results relative to (contemporary) literature only to conclude with very broad statements on how to move forward in the conclusion. Other story structures exist, but this is for sure one of the most common ones to consider.
 
-Other story structures exist, but this is for sure one of the most common ones to consider. Deviating from this basic structure often leads to a skewed story arcs, which either inflates expectations (funnel shape) or underplays the value of the work at hand (inverted funnel). For an in depth discussion I refer to "[Writing Science](https://global.oup.com/academic/product/writing-science-9780199760237?cc=us&lang=en&)" by Joshua Schimel.
+To guide you to the process you can ask yourself a number of questions:
+
+- Opening [O] \(Introduction)
+	- &#9744; Who are the "characters" (topics covered)?
+	- &#9744; What is the story about?
+	- &#9744; Where does it take place (spatial / temporal coverage)?
+	- &#9744; Why is the story important, what is the larger problem at hand?              
+
+- Challenge [C] \(Introduction / Methods)
+	- &#9744; What is the problem you are writing about?
+	- &#9744; What specific question do you propose to answer?
+	- &#9744; How ‘bad’ is it?
+	- &#9744; How important?
+
+- Action [A] \(Methods / Results)
+	- &#9744; What happens to address the challenge? 
+	- &#9744; Your contribution and results
+
+- Resolution [R] \(Discussion / Conclusion)
+	- &#9744; How has our world view changed as a result of A? 
+	- &#9744; Big take away messages, what did you learn from your work?
+	- &#9744; How should we all move forward?
+
+Deviating from this basic structure often leads to a skewed story arcs, which either inflates expectations (funnel shape) or underplays the value of the work at hand (inverted funnel). For an in depth discussion I refer to "[Writing Science](https://global.oup.com/academic/product/writing-science-9780199760237?cc=us&lang=en&)" by Joshua Schimel.
 
 ### Language
 
