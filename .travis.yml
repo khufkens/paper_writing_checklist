@@ -9,7 +9,7 @@ install:
 
 script:
   - git clone https://${GH_TOKEN}@github.com/khufkens/paper_writing_checklist.git .
-  - pandoc --pdf-engine=lualatex -s README.md -o paper_writing_checklist.pdf
+  - pandoc -s README.md -o paper_writing_checklist.pdf
   
 after_success:
   - git add *.pdf
