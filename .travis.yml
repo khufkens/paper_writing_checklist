@@ -6,6 +6,7 @@ cache:
   packages: yes
 
 install:
+  - tlmgr install unicode-math
   - mkdir ~/tmp && cd ~/tmp
 
 script:
