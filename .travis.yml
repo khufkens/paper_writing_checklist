@@ -5,9 +5,6 @@ sudo: required
 cache:
   packages: yes
 
-before_install:
-  - sudo apt install texlive-math-extra
-
 install:
   - mkdir ~/tmp && cd ~/tmp
 
