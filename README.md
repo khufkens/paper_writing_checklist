@@ -105,7 +105,8 @@ Deviating from this basic structure often leads to a skewed story arcs, which ei
 
 - [ ] Does the manuscript fit the scope of the target journal
 - [ ] Report potential conflicts of interest
-- [ ] Keep it short!
+- [ ] Does the letter describe the relevance & novelty of manuscript
+- [ ] Keep it short (aim for half a page)!
 
 # References
 
