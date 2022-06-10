@@ -1,5 +1,3 @@
-<a href="https://www.buymeacoffee.com/H2wlgqCLO"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" height="21px" ></a>
-
 # Paper writing checklist and advice
 
 This is a checklist for academic paper writing (or peer-review). The document covers text flow, style, figures and table formatting. This document is based upon a number of references, combining the most actionable items into an easy checklist. I credit the [rOpenSci](https://ropensci.org/) code review approach for the checklist idea. A printable pdf version of this file can be [downloaded from the repository](https://github.com/khufkens/paper_writing_checklist/raw/master/paper_writing_checklist.pdf).
